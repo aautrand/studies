@@ -1,0 +1,8 @@
+#+TITLE: Cosmic Background Radiation
+
+* Idea
+
+* People
+
+* Links
+ -   <2021-02-25 Thu> [[file:~/docs/studies/astronomy/lectures/mit_8286_intro_to_cos/lect_1.org][lect_1_inflationary_cosm_1]]  
