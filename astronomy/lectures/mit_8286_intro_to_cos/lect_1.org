@@ -3,7 +3,7 @@
 #+SEQ_TODO: TODO NEXT WAITING BLOCKED SOMEDAY IN_PROGRESS | DONE CANCELLED
 #+SCHOOL: MIT
 #+COURSE: The Early Universe
-#+TERM Fall 2013
+#+TERM: Fall 2013
 #+LINK: https://www.youtube.com/watch?v=ANCN7vr9FVk&t=662s
 #+STARTUP: hidestars
 
@@ -185,7 +185,7 @@ though they really were. They just weren't parts of physics people noticed and
 talked about.
 **** Which features are crucial?
 
-** Graviation
+** Gravitation
 So the miracle of physics I'm talking about here is something which actually is
 known since the time of Einstein's general relativity-- that gravity is not
 always attractive. Gravity can act repulsively. And Einstein introduced this in
